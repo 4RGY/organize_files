@@ -2,8 +2,6 @@
 
 A desktop application built with Python and Tkinter to help users organize their files into a structured folder system.
 
-![File Organizer Screenshot](https://via.placeholder.com/600x400?text=File+Organizer+Screenshot)
-
 ## Project Overview
 
 File Organizer is a simple yet powerful tool designed to help students and professionals manage their academic and work files. The application creates a predefined folder structure and automatically sorts files based on keywords in their filenames. It's particularly useful for organizing course materials, assignments, and project files.
